@@ -5,6 +5,7 @@
  pip install -r requirements.txt
 ```
 
+##### quesiton.pdf has the questions for this assignment.
 ### Assumptions: 
 1. To preprocess the input text file, first we split it in terms of paragraph if any (i.e., split on a '\n\n' symbol) and then apply sent\_tokenize on it. It worked better than just using the sent\_tokenize alone on the input text file.
 

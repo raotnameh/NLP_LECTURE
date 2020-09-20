@@ -12,6 +12,6 @@ Assumptions:
 
 3. To create words we remove the punctuations from the tokens (in 2.).
 
-3.1 Puncutaions used are: string.punctuations are used. 
+	3.1 Puncutaions used are: string.punctuations are used. 
 Note: The functions are self explanatory with a mini readme inside each fucntion.
 

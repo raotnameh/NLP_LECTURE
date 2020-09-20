@@ -20,6 +20,6 @@
 
 #### Note: The functions in the jupyter notebbok are self explanatory with a mini readme inside each fucntion.
 
-#### output.txt contains the sample output from: 20\_newsgroups/rec.motorcycles/103117
-For any queries please contact: hemantya@iiitd.ac.in
+- output.txt contains the sample output from: 20\_newsgroups/rec.motorcycles/103117
+- For any queries please contact: hemantya@iiitd.ac.in
 

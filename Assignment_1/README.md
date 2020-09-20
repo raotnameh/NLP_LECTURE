@@ -1,9 +1,7 @@
-Libraries used: 
-import glob, string, re
-from nltk.tokenize import sent_tokenize, word_tokenize
-import spacy
-from word2number import w2n
-import string
+###### Tested on python 3.6
+
+- To install the dependencies run
+''' pip install -r requirements.txt'''
 
 Assumptions: 
 

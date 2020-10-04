@@ -68,7 +68,7 @@
 
 ### Question-2
 
-1. The answer is in quest_2.pdf in the same folder.
+1. The answer is in quest_3.pdf in the same folder.
 
 
 ### Question-3
@@ -77,7 +77,7 @@
 + Percentage of words incorrectly classified: 43.6 %.
 + The word types which are most frequently tagged incorrectly are mostly the ones which have more than **1** pos-tag. as can be seen by the below results. Therefore it's because of the amiguity of thesame word type belonging to the **N** number of tags.
    
-    + Word types predicted incorrectly atleast 10 times are:
+    + Word types predicted incorrectly atleast 100 times are:
     
             word type (A) predicted incorrectly 5980 times
             word type (TO) predicted incorrectly 3600 times
@@ -127,7 +127,6 @@
             word type (THOUGH) predicted incorrectly 131 times
             word type (SUCH) predicted incorrectly 124 times
             word type (AROUND) predicted incorrectly 112 times
-            word type (PUBLIC) predicted incorrectly 97 times
 
     +   Word types with more than **1** POS-tag are:
  

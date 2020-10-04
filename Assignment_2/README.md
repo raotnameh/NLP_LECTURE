@@ -128,7 +128,9 @@
             word type (SUCH) predicted incorrectly 124 times
             word type (AROUND) predicted incorrectly 112 times
             word type (PUBLIC) predicted incorrectly 97 times
-    +   Word types with more than **1** POS-tag are: 
+
+    +   Word types with more than **1** POS-tag are:
+ 
             [('that', 15),
             ('a', 13),
             ('to', 11),

@@ -1,7 +1,7 @@
 ###### Tested on python 3.6
 
 ##### quesiton.pdf has the questions for this assignment.
-##### output.pdf has the answers and assumptions for this assignment.
+##### answer.pdf has the answers and assumptions for this assignment.
 
 ```
  3a.ipynb: features for 3a.
@@ -10,7 +10,7 @@
  
  save/: contains the saved models and scores.
  utils/: contains the utility funcitions for evalutaion
- 
+
 ```
 
 - For any queries please contact: hemantya@iiitd.ac.in

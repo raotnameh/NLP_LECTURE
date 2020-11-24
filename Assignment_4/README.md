@@ -15,11 +15,7 @@
 4. assignment_4.ipynb has all the code: if a word in English closest list can be mapped to a word in the Hindi closest list using the bilingual dictionary, then add this pair to list L1.
 
 > Using word2vec we were able to add 5 new words to the L1.txt and the updated L1 file is saved at save/w2v_L1.txt. The new 5 words are:
->>life जीवन
->>big बड़ा
->>very बहुत
->>display प्रदर्शन
->>wont नहीं 
+>>life जीवन, big बड़ा, very बहुत, display प्रदर्शन, wont नहीं.
 
 > Using glove we were able to add 2 new words to the L1.txt and the updated L1 file is saved at save/glove_L1.txt. The new 5 words are:
 >>life जीवन

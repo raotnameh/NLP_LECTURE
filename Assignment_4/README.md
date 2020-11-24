@@ -5,7 +5,7 @@
 ```
  assignment_4.ipynb: Python based script for the assignment 4.
  
- save/: contains the saved models and saved L1 for both glove and word2vec (w2v) embeddings.
+ save/: contains the saved models and saved L1 for both glove and word2vec (w2v) embeddings. unzip save/save.zip.
  data/: put all the required dataset in this directory.
 ```
 

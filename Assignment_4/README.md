@@ -18,11 +18,7 @@
 >>life जीवन, big बड़ा, very बहुत, display प्रदर्शन, wont नहीं.
 
 > Using glove we were able to add 2 new words to the L1.txt and the updated L1 file is saved at save/glove_L1.txt. The new 5 words are:
->>life जीवन
->>big बड़ा
->>very बहुत
->>display प्रदर्शन
->>wont नहीं 
+>> data डेटा, offline ऑफ़लाइन
 
 
 - For any queries please contact: hemantya@iiitd.ac.in

@@ -1,49 +1,49 @@
 Assignment 1 output.pdf 
-File used is: data/20_newsgroups/rec.motorcycles/103117 
+File used is: dev.txt 
 
 
 Task 1: 
-             Number of sentences present are: 36 
-             Number of tokens present are: 680 
-             Number of words present are: 558 
-             Number of unique words/tokens are: 327/343.
+             Number of sentences present are: 28 
+             Number of tokens present are: 604 
+             Number of words present are: 471 
+             Number of unique words/tokens are: 268/286.
 
 
 Task 2: 
-             Number of words starting with consonants are: 321 
-             Number of words starting with vowels are: 112 
-             Number of unique words starting with consonants/vowels are: 200/46. 
+             Number of words starting with consonants are: 286 
+             Number of words starting with vowels are: 98 
+             Number of unique words starting with consonants/vowels are: 156/52. 
 
 
 Task 3: 
-         Number of email IDs present in the given text file are: 5 
-         Number of UNIQUE email IDs present in the given text file are: 4 
+         Number of email IDs present in the given text file are: 7 
+         Number of UNIQUE email IDs present in the given text file are: 5 
          And the email ID are as follows: 
-		manes@magpie.linknet.com 
-		C4tFwI.DLp@magpie.linknet.com 
-		1pd49g$a8m@vtserf.cc.vt.edu 
-		ranck@joesbar.cc.vt.edu 
-		manes@magpie.linknet.com 
+		robg@apple.com 
+		news@gallant.apple.com 
+		robg-230493103008@sideout.apple.com 
+		1r941o$3tu@menudo.uh.edu 
+		1r941o$3tu@menudo.uh.edu 
+		inde7wv@Rosie.UH.EDU 
+		robg@apple.com 
 
 
  Task 4: 
-             Number of sentences starting with --"you"-- are: 2 
+             Number of sentences starting with --"last"-- are: 0 
              And the sentences are as follows: 
-		You guessed it.
-		You got off cheap.
 
 
  Task 5: 
-             Number of sentences ending with --"cheap."-- are: 1 
+             Number of sentences ending with --"you"-- are: 1 
              And the sentences are as follows: 
-		You got off cheap.
+		Any other ideas for being first in line with no traffic directly behind you?
 
 
  Task 5: 
-             Number of sentences containing the word--"100"-- are: 1 
-             Number of words containing the word--"100"-- are: 1 
+             Number of sentences containing the word--"50"-- are: 1 
+             Number of words containing the word--"50"-- are: 1 
              And the sentences are as follows: 
-		100 miles in rain : and darkness.
+		- If you are the last in a line of 50 vehicles, watch your mirrors  *constantly!
 
 
 Task 7: 
@@ -53,27 +53,20 @@ Task 7:
 
 Task 8: 
          Mins and Secs present in the file are as follows: 
-		--43 mins, 29 sec
+		--41 mins, 48 sec
 
 
 Task 9: 
-         Number of abbreviations present in the file are: 15 
-         Number of UNIQUE abbreviations present in the file are: 13 
+         Number of abbreviations present in the file are: 8 
+         Number of UNIQUE abbreviations present in the file are: 8 
          Abbreviations present in the file are as follows: 
-		--NYC
-		--GMT
 		--Message-ID
-		--TIN
-		--PL9
-		--K75RT
-		--DAMN
-		--BMW
-		--BMW
-		--CT
-		--K100RS
-		--BMW
-		--FLHS
-		--NY
-		--USA
+		--GMT
+		--Rosie.UH.EDU
+		--BDC
+		--XYZ
+		--NOTE
+		--Erasure.ShonaLaing.WildSwans.B52s.U2.JudyBats.REM.Smiths
+		--FAA
 
 
